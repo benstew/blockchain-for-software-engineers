@@ -9,15 +9,17 @@ A collection of resources that I've gathered over the past couple years while ad
 This list is by no means exhaustive and is centered on the end goal of building production quality smart contracts and DApps. My journey has been focused on Ethereum but I would love this list to expand and not just be limited to one Blockchain. All contributions welcome!
 
 ## About me
-I have strong background in FinTech and have worked in Investment Banking, Private Equity, and consumer facing investment companies. I'm currently exploring the intersection of deep learning and blockchain to engineer Web 3.0. If you are doing something similar, reach out :).
+My background is in FinTech and I've worked in Investment Banking, Private Equity, and consumer facing investment companies. I'm currently exploring the intersection of deep learning and blockchain to engineer Web 3.0. If you are doing something similar, reach out :).
 
 Linkedin: https://www.linkedin.com/in/benstewart2008/
+
 Twitter: @bigbenstew
+
 Medium: https://medium.com/@BIGbenStew
 
 
 ## Goal
-Curate a list of resources to can benefit software engineers looking to become blockchain engineers. There is an extreme talent deficit in the blockchain world and hopefully be providing a gateway, we are able to increase our numbers while we build the future!
+Create and curate a list of resources for aspiring and seasoned blockchain engineers.
 
 
 ## Table of Contents
@@ -53,7 +55,7 @@ Curate a list of resources to can benefit software engineers looking to become b
 
 
 ## Covering the Material
-Over the past two years, I found it useful to pick a subject from the list below, read it thoroughly, take notes, and implement on a blockchain running locally. I tend to prefer a top-down, hands on approach to learning. It's quite important that you continue to build and push your understanding further daily.
+Over the past two years, I found it useful to pick a subject from the list below, read it thoroughly, take notes, and implement on a blockchain running locally. I tend to prefer a top-down, hands on approach to learning. I found it extremely important to build and push my understanding further daily.
 
 
 ## How to use it
