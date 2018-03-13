@@ -151,7 +151,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Bitcoin Forks](https://www.coindesk.com/short-guide-bitcoin-forks-explained/)
 - [ ] [Double Spends, 51% Attacks](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
 - [ ] [Replay Attacks](https://bitcointechtalk.com/how-to-protect-against-replay-attacks-7a00bd2fe52f?gi=618160cafff4)
-- [ ] [Segregated Wireless](https://en.wikipedia.org/wiki/SegWit)
+- [ ] [Segregated Witness](https://en.wikipedia.org/wiki/SegWit)
 - [ ] [Bitcoin Scalability Problems](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem)
 - [ ] [Mega Bitcoin Resources List](https://lopp.net/bitcoin.html)
 
