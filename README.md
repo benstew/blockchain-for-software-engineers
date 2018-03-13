@@ -138,7 +138,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Bitcoin Mining](https://www.youtube.com/watch?v=jXerV3f5jN8)
 - [ ] [Walk through a Bitcoin Block header](https://www.youtube.com/watch?v=gUwXCt1qkBU)
 - [ ] [Bitcoin Block Explorer](https://blockchain.info/)
-- [ ] [Bicoin History](https://youtu.be/apYieuvnUaE)
+- [ ] [Bitcoin History](https://youtu.be/apYieuvnUaE)
 - [ ] [Bitcoin Forum](https://bitcointalk.org/index.php?board=1.0)
 - [ ] [Blockchains from a distributed computing perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
@@ -182,7 +182,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Learn X in Y](https://learnxinyminutes.com/docs/solidity/)
 - [ ] [Browser IDE](https://remix.ethereum.org/)
 - [ ] [BitDegree](https://solidity.bitdegree.org/)
-- [ ] [The Hitchiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- [ ] [The Hitchhiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - [ ] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
 
 ## Beginner Tutorials
