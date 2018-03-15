@@ -158,7 +158,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 ## Books
 - [ ] [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
 - [ ] [Blockchain: Blueprint for a New Economy](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)
-- [ ] [CryptoAssets: The Innovatative Investors Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671)
+- [ ] [CryptoAssets: The Innovative Investors Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671)
 - [ ] [The Business Blockchain](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1536663468)
 - [ ] [Blockchain Revolution](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/151135769X)
 
