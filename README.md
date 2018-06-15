@@ -184,6 +184,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [BitDegree](https://solidity.bitdegree.org/)
 - [ ] [The Hitchhiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - [ ] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
+- [ ] [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 
 ## Beginner Tutorials
 - [ ] [Build Your First Blockchain Application in 5 Quick Steps](https://itnext.io/build-your-first-blockchain-application-in-5-quick-steps-89ebb96adbfe)
