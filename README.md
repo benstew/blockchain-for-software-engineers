@@ -222,6 +222,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [The business Blockchain](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1536663468)
 - [ ] [Mastering Ethereum](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
 - [ ] [Introducing Ethereum and Solidity](https://www.apress.com/us/book/9781484225349)
+- [ ] [Ethereum Development with Go](https://goethereumbook.org/)
 
 # Blockchain Community
 ## Blogs
