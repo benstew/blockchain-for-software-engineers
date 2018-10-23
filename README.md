@@ -200,6 +200,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Ethernaut - Smart Contract Hacking Game](https://ethernaut.zeppelin.solutions/)
 - [ ] [Hack This Contract Game](http://hackthiscontract.io/)
 - [ ] [Additional Resources](https://consensys.github.io/smart-contract-best-practices/bibliography/)
+- [ ] [Slither: Static Analyzer for Solidity](https://github.com/trailofbits/slither)
 
 ## Tools of the Trade
 - [ ] [Truffle Docs](http://truffleframework.com/docs/)
