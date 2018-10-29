@@ -165,6 +165,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 # Ethereum
 ## Intro to Ethereum
 - [ ] [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [ ] [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [ ] [Ethereum in 25 Minutes](https://youtu.be/mCzyDLanA7s)
 - [ ] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
 - [ ] [Ethereum's Account Model](https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos)
