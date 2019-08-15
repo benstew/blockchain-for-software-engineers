@@ -9,7 +9,7 @@ A collection of resources that I've gathered over the past couple years while ad
 This list is by no means exhaustive and is centered on the end goal of building production quality smart contracts and DApps. My journey has been focused on Ethereum but I would love this list to expand and not just be limited to one Blockchain. All contributions welcome!
 
 ## About me
-FinTech Background with 2.5 years in the blockhcain world. Dev, advisor, evangelist, and aspiring security researcher.
+FinTech Background with 2.5 years in the blockchain world. Dev, advisor, evangelist, and aspiring security researcher.
 
 Linkedin: https://www.linkedin.com/in/benstewart2008/
 
