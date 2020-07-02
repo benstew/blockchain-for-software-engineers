@@ -187,6 +187,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [The Hitchhiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - [ ] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
 - [ ] [Understanding Ethereum Smart Contract Storage](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage)
+- [ ] [Understanding Precompiled contracts ](https://blog.qtum.org/precompiled-contracts-and-confidential-assets-55f2b47b231d)
 
 
 ## Beginner Tutorials
