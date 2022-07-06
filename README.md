@@ -41,7 +41,7 @@ Create and curate a list of resources for aspiring and seasoned blockchain engin
 - [Solidity and Smart Contracts](#solidity-and-smart-contracts)
 - [Beginner Ethereum Tutorials](#beginner-ethereum-tutorials)
 - [Smart Contract Security](#smart-contract-security)
-- [Tools of the Trade](#tools-of-the-trade)
+- [Development Tools](#development-tools)
 - [Ethereum Tutorials](#ethereum-tutorials)
 - [Ethereum Books](#ethereum-books)
 - [Blockchain Blogs](#blockchain-blogs)
@@ -207,11 +207,12 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Additional Resources](https://consensys.github.io/smart-contract-best-practices/bibliography/)
 - [ ] [Slither: Static Analyzer for Solidity](https://github.com/trailofbits/slither)
 
-## Tools of the Trade
+## Development Tools
 - [ ] [Truffle Docs](http://truffleframework.com/docs/)
 - [ ] [Ganache](http://truffleframework.com/docs/ganache/using)
 - [ ] [IPFS Docs](https://ipfs.io/docs/)
 - [ ] [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
+- [ ] [HardHat](https://hardhat.org/tutorial)
 
 ## Ethereum Tutorials
 - [ ] [End to End Ethereum Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
