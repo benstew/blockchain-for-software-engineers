@@ -4,19 +4,12 @@ Inspired by [Google Interview University](https://www.google.com), [Machine Lear
 "The blockchain symbolizes a shift in power from the centers to the edges of the networks." - William Mougayar
 
 ## What is it?
-A collection of resources that I've gathered over the past couple years while advancing in the blockchain world. I'm by no means a blockchain expert but I found the below resources proved useful on my journey from a full stack software engineer to a blockchain engineer. Hope this can help others.
+A collection of resources that I've gathered over the past couple years while advancing in the blockchain world. Hope this can help others.
 
 This list is by no means exhaustive and is centered on the end goal of building production quality smart contracts and DApps. My journey has been focused on Ethereum but I would love this list to expand and not just be limited to one Blockchain. All contributions welcome!
 
 ## About me
-FinTech Background with 2.5 years in the blockchain world. Dev, advisor, evangelist, and aspiring security researcher.
-
-Linkedin: https://www.linkedin.com/in/benstewart2008/
-
-Twitter: @bigbenstew
-
-Medium: https://medium.com/@BIGbenStew
-
+Security researcher and engineer
 
 ## Goal
 Create and curate a list of resources for aspiring and seasoned blockchain engineers.
@@ -215,6 +208,11 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
 - [ ] [HardHat](https://hardhat.org/tutorial)
 
+## Security Tools
+- [ ] [Slither: Solidity Static Text Analyzer](https://github.com/crytic/slither)
+- [ ] [Echidna: Smart Contract Fuzzer](https://github.com/crytic/echidna)
+- [ ] [Mythril: Dynamic Analysis Swiss Army Knife](https://github.com/ConsenSys/mythril)
+
 ## Ethereum Tutorials
 - [ ] [End to End Ethereum Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
 - [ ] [Introduction to Ethereum Smart Contract Development](https://www.youtube.com/watch?v=8jI1TuEaTro)
@@ -227,7 +225,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Books
 - [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-- [ ] [The business Blockchain](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1536663468)
+- [ ] [The Business Blockchain](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1536663468)
 - [ ] [Mastering Ethereum](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
 - [ ] [Introducing Ethereum and Solidity](https://www.apress.com/us/book/9781484225349)
 - [ ] [Ethereum Development with Go](https://goethereumbook.org/)
@@ -244,6 +242,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Great Wall of Numbers](http://www.ofnumbers.com/)
 
 ## Forums and Threads
+- [ ] [r/EthDev](https://reddit.com/r/ethdev)
 - [ ] [r/Ethereum](https://reddit.com/r/ethereum)
 - [ ] [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency)
 - [ ] [Bitcoin Talk](https://bitcointalk.org/)
