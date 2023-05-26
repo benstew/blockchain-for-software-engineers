@@ -81,6 +81,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
 - [ ] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
 - [ ] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
+- [ ] [Generate random number with Cryptography](https://gist.github.com/thanhnguyennguyen/abb8a59329eb73b811baf3bb4982ba3f)
 
 ## Distributed Systems
 - [ ] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
