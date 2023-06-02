@@ -171,6 +171,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [ ] [Ethereum Wallets](https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets)
 - [ ] [A Crash Course for Mechanism Design](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+- [ ] [Ethereum tries](https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed)
 
 ## Solidity and Smart Contracts
 - [ ] [Solidity Docs](http://solidity.readthedocs.io/en/v0.4.20/)
