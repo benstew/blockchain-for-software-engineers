@@ -34,7 +34,7 @@ Create and curate a list of resources for aspiring and seasoned blockchain engin
 - [Solidity and Smart Contracts](#solidity-and-smart-contracts)
 - [Beginner Ethereum Tutorials](#beginner-ethereum-tutorials)
 - [Smart Contract Security](#smart-contract-security)
-- [Tools of the Trade](#tools-of-the-trade)
+- [Development Tools](#development-tools)
 - [Ethereum Tutorials](#ethereum-tutorials)
 - [Ethereum Books](#ethereum-books)
 - [Blockchain Blogs](#blockchain-blogs)
@@ -74,6 +74,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
 - [ ] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
 - [ ] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
+- [ ] [Generate random number with Cryptography](https://gist.github.com/thanhnguyennguyen/abb8a59329eb73b811baf3bb4982ba3f)
 
 ## Distributed Systems
 - [ ] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
@@ -163,13 +164,14 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
 - [ ] [Ethereum's Account Model](https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos)
 - [ ] [Industry Support](https://entethalliance.org/members/)
-- [ ] [The Ethreum Community Forum](https://forum.ethereum.org/)
+- [ ] [The Ethereum Community Forum](https://forum.ethereum.org/)
 - [ ] [ERC-20](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
 - [ ] [The Anatomy of ERC20](https://medium.com/blockchannel/the-anatomy-of-erc20-c9e5c5ff1d02)
 - [ ] [The Anatomy of ERC721](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)
 - [ ] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [ ] [Ethereum Wallets](https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets)
 - [ ] [A Crash Course for Mechanism Design](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+- [ ] [Ethereum tries](https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed)
 
 ## Solidity and Smart Contracts
 - [ ] [Solidity Docs](http://solidity.readthedocs.io/en/v0.4.20/)
@@ -180,6 +182,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [The Hitchhiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - [ ] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
 - [ ] [Understanding Ethereum Smart Contract Storage](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage)
+- [ ] [Understanding Precompiled contracts ](https://blog.qtum.org/precompiled-contracts-and-confidential-assets-55f2b47b231d)
 
 
 ## Beginner Tutorials
@@ -199,11 +202,12 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Additional Resources](https://consensys.github.io/smart-contract-best-practices/bibliography/)
 - [ ] [Slither: Static Analyzer for Solidity](https://github.com/trailofbits/slither)
 
-## Tools of the Trade
+## Development Tools
 - [ ] [Truffle Docs](http://truffleframework.com/docs/)
 - [ ] [Ganache](http://truffleframework.com/docs/ganache/using)
 - [ ] [IPFS Docs](https://ipfs.io/docs/)
 - [ ] [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
+- [ ] [HardHat](https://hardhat.org/tutorial)
 
 ## Security Tools
 - [ ] [Slither: Solidity Static Text Analyzer](https://github.com/crytic/slither)
